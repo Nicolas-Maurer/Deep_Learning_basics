@@ -6,3 +6,4 @@ Repository containing some practical exercises carried out during my second year
 
 # Autoencoders on Mnist
 
+![image](https://user-images.githubusercontent.com/62259863/149165011-c8f9a4bb-1acb-428f-90b2-42fb14cd4478.png)
